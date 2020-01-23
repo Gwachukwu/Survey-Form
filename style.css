@@ -1,0 +1,81 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial;
+}
+form{
+    background-color: white;
+    margin: auto;
+    padding: 2rem 4rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.form-hd{
+    font-weight: bold;
+}
+input[type = text] {
+    width: 250px;
+    height: 30px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: -5%;
+ }
+ input[type = date]{
+     width: 250px;
+     height: 30px;
+     margin-left: 2%;
+     margin-bottom: 2%;
+     margin-right: -1%;
+     margin-right: -6%;
+ }
+ .drop-info1{
+     margin-left: -37%;
+ }
+ #dropdown1{
+     margin-left: 2%;
+     margin-bottom: 2%;
+     margin-right: -5%;
+     background-color: rgb(209, 200, 200);
+ }
+ .radio-label{
+    margin-left: -43%;
+    width: 100px;
+    text-align: left;
+ }
+ span{
+     margin-left: -23%;
+ }
+ .radio-btn{
+    margin-top: -3%;
+    margin-left: 44%;
+    text-align: left;
+    margin-bottom: 2%;
+ } 
+ #dropdown2{
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: -5%;
+    background-color: rgb(209, 200, 200);
+ }
+ .drop-info2{
+     margin-left: -35%;
+ }
+ .checkbox-label{
+     margin-left: -46%;
+ }
+ .checkbox-span{
+     margin-left: -30%;
+ }
+ .checkbox{
+     margin-top: -3%;
+     margin-left: 44%;
+     text-align: left;
+ }
+input[type=submit]{
+    margin-top: 2%;
+}
